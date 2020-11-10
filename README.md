@@ -3,4 +3,4 @@ Requires 2 Vectors: Two Vectors will play Rock Paper Scissors with each other, y
 
 Make sure to enter the robot serial numbers into each script.
 
-https://yt-embed.herokuapp.com/embed?v=55nhUM8R8wM
+[![Rock Paper Scissors Game](https://yt-embed.herokuapp.com/embed?v=55nhUM8R8wM)](https://www.youtube.com/watch?v=55nhUM8R8wM "Two Vectors play Rock Paper Scissors!")
